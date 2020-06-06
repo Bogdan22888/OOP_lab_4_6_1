@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_lab_4_6_1", "OOP_lab_4_6_1\OOP_lab_4_6_1.csproj", "{DCE4D08F-8FBA-44F5-99CB-965C70A5994A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{737116A8-A833-4831-A38F-C2588B073B2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8948A070-DD65-4B23-A0F0-07A32FDF93CC}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE4D08F-8FBA-44F5-99CB-965C70A5994A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE4D08F-8FBA-44F5-99CB-965C70A5994A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE4D08F-8FBA-44F5-99CB-965C70A5994A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE4D08F-8FBA-44F5-99CB-965C70A5994A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737116A8-A833-4831-A38F-C2588B073B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737116A8-A833-4831-A38F-C2588B073B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737116A8-A833-4831-A38F-C2588B073B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737116A8-A833-4831-A38F-C2588B073B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D72A8B-DF7D-41A7-9D33-585FBDA56CF3}
+	EndGlobalSection
+EndGlobal
